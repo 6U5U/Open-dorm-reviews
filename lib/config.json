@@ -1,0 +1,196 @@
+{
+  "kind": "dorm",
+  "brand": "DormScout",
+  "title": "Find a place that feels like you.",
+  "subtitle": "The quiet floors. The good showers. The stuff you only learn after move-in.",
+  "accent": "#154e3b",
+  "light": "#e8f1eb",
+  "noun": "dorm",
+  "plural": "dorms",
+  "metrics": [
+    "Quiet",
+    "Cleanliness",
+    "Location"
+  ],
+  "categories": [
+    "Traditional halls",
+    "Suites",
+    "Apartments"
+  ],
+  "items": [
+    {
+      "id": "example-1",
+      "name": "Maple Hall",
+      "school": "Northbridge University",
+      "category": "Traditional halls",
+      "meta": "North campus \u00b7 Shared bathrooms",
+      "tags": [
+        "Quiet floors",
+        "Air conditioning"
+      ],
+      "example": true,
+      "reviews": [
+        {
+          "id": "example-review-0",
+          "term": "Spring 2026",
+          "body": "The quiet one. A little further from everything, a lot easier to sleep.",
+          "rating": 4,
+          "m1": 5,
+          "m2": 4,
+          "m3": 4,
+          "hours": 0,
+          "recommend": true,
+          "instructor": "",
+          "own": false,
+          "createdAt": "2026-05-20T12:00:00Z",
+          "example": true
+        }
+      ]
+    },
+    {
+      "id": "example-2",
+      "name": "Union House",
+      "school": "Northbridge University",
+      "category": "Traditional halls",
+      "meta": "Central campus \u00b7 Shared bathrooms",
+      "tags": [
+        "Social atmosphere",
+        "Near classes"
+      ],
+      "example": true,
+      "reviews": [
+        {
+          "id": "example-review-1",
+          "term": "Spring 2026",
+          "body": "You\u2019ll know your neighbors by week two. Bring earplugs for the weekends.",
+          "rating": 4,
+          "m1": 2,
+          "m2": 4,
+          "m3": 5,
+          "hours": 0,
+          "recommend": true,
+          "instructor": "",
+          "own": false,
+          "createdAt": "2026-05-20T12:00:00Z",
+          "example": true
+        }
+      ]
+    },
+    {
+      "id": "example-3",
+      "name": "Cedar Suites",
+      "school": "Northbridge University",
+      "category": "Suites",
+      "meta": "West campus \u00b7 Suite bathrooms",
+      "tags": [
+        "Quiet floors",
+        "Air conditioning"
+      ],
+      "example": true,
+      "reviews": [
+        {
+          "id": "example-review-2",
+          "term": "Spring 2026",
+          "body": "A little more room to breathe, and a bathroom you share with just three people.",
+          "rating": 5,
+          "m1": 5,
+          "m2": 5,
+          "m3": 3,
+          "hours": 0,
+          "recommend": true,
+          "instructor": "",
+          "own": false,
+          "createdAt": "2026-05-20T12:00:00Z",
+          "example": true
+        }
+      ]
+    },
+    {
+      "id": "example-4",
+      "name": "Riverside Hall",
+      "school": "Northbridge University",
+      "category": "Traditional halls",
+      "meta": "South campus \u00b7 Shared bathrooms",
+      "tags": [
+        "Social atmosphere",
+        "Near classes"
+      ],
+      "example": true,
+      "reviews": [
+        {
+          "id": "example-review-3",
+          "term": "Spring 2026",
+          "body": "Big rooms, great location. The first warm weeks are tough without AC.",
+          "rating": 3,
+          "m1": 3,
+          "m2": 3,
+          "m3": 5,
+          "hours": 0,
+          "recommend": true,
+          "instructor": "",
+          "own": false,
+          "createdAt": "2026-05-20T12:00:00Z",
+          "example": true
+        }
+      ]
+    },
+    {
+      "id": "example-5",
+      "name": "Juniper Apartments",
+      "school": "Northbridge University",
+      "category": "Apartments",
+      "meta": "West campus \u00b7 Private bathrooms",
+      "tags": [
+        "Kitchen",
+        "Air conditioning"
+      ],
+      "example": true,
+      "reviews": [
+        {
+          "id": "example-review-4",
+          "term": "Spring 2026",
+          "body": "Cooking your own dinner changes everything. Budget time for the commute.",
+          "rating": 4,
+          "m1": 4,
+          "m2": 5,
+          "m3": 3,
+          "hours": 0,
+          "recommend": true,
+          "instructor": "",
+          "own": false,
+          "createdAt": "2026-05-20T12:00:00Z",
+          "example": true
+        }
+      ]
+    },
+    {
+      "id": "example-6",
+      "name": "Oak Court",
+      "school": "Northbridge University",
+      "category": "Suites",
+      "meta": "East campus \u00b7 Suite bathrooms",
+      "tags": [
+        "Near classes",
+        "Kitchen"
+      ],
+      "example": true,
+      "reviews": [
+        {
+          "id": "example-review-5",
+          "term": "Spring 2026",
+          "body": "A solid middle ground: close to lectures without being in the middle of the noise.",
+          "rating": 5,
+          "m1": 4,
+          "m2": 4,
+          "m3": 5,
+          "hours": 0,
+          "recommend": true,
+          "instructor": "",
+          "own": false,
+          "createdAt": "2026-05-20T12:00:00Z",
+          "example": true
+        }
+      ]
+    }
+  ]
+}
